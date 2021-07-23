@@ -1,0 +1,261 @@
+[
+  {
+    "id": "5c868b22eb7069b50c6d2d32",
+    "age": 38,
+    "name": "Sanchez Collier",
+    "email": "sanchezcollier@equicom.com",
+    "phone": "(897) 421-3152",
+    "geoInfo": {
+      "latitude": -66.117512,
+      "longitude": -50.147742
+    }
+  },
+  {
+    "id": "5c868b227167edc396fc3754",
+    "age": 27,
+    "name": "Laverne Valdez",
+    "email": "lavernevaldez@equicom.com",
+    "phone": "(972) 587-2491",
+    "connectionInfo": {
+      "type": "sameGeoInfo",
+      "confidence": 1
+    },
+    "geoInfo": {
+      "latitude": -66.117512,
+      "longitude": -50.147742
+    },
+    "combinedConnectionInfo": {
+      "types": [
+        "sameGeoInfo"
+      ],
+      "confidence": 1
+    }
+  },
+  {
+    "id": "5c868b2213b36f773efcee81",
+    "age": 40,
+    "name": "Love Hoffman",
+    "email": "lavernevaldez@equicom.com",
+    "phone": "(856) 488-3734",
+    "connectionInfo": {
+      "type": "sameEmail",
+      "confidence": 1
+    },
+    "geoInfo": {
+      "latitude": 5.393689,
+      "longitude": 91.586263
+    },
+    "combinedConnectionInfo": {
+      "types": [
+        "sameEmail",
+        "sameGeoInfo"
+      ],
+      "confidence": 1
+    }
+  },
+  {
+    "id": "5c868b227d1acdd8c333dd44",
+    "age": 34,
+    "name": "Raquel Peters",
+    "email": "raquelpeters@equicom.com",
+    "phone": "(817) 598-2777",
+    "connectionInfo": {
+      "type": "sameEmail",
+      "confidence": 1
+    },
+    "geoInfo": {
+      "latitude": 14.938381,
+      "longitude": -123.729536
+    },
+    "combinedConnectionInfo": {
+      "types": [
+        "sameEmail",
+        "sameGeoInfo"
+      ],
+      "confidence": 1
+    }
+  },
+  {
+    "id": "5c868b228f8d108091fc0053",
+    "age": 24,
+    "name": "Manuela Meyer",
+    "email": "manuelameyer@equicom.com",
+    "phone": "(902) 588-2074",
+    "connectionInfo": {
+      "type": "sameEmail",
+      "confidence": 1
+    },
+    "geoInfo": {
+      "latitude": 48.943732,
+      "longitude": -94.05825
+    },
+    "combinedConnectionInfo": {
+      "types": [
+        "sameEmail",
+        "sameGeoInfo"
+      ],
+      "confidence": 1
+    }
+  },
+  {
+    "id": "5c868b223c158bf1f7a6a9df",
+    "age": 32,
+    "name": "Harvey Goodman",
+    "email": "harveygoodman@equicom.com",
+    "phone": "(848) 540-3876",
+    "connectionInfo": {
+      "type": "sameEmail",
+      "confidence": 1
+    },
+    "geoInfo": {
+      "latitude": 68.134818,
+      "longitude": 72.825049
+    },
+    "combinedConnectionInfo": {
+      "types": [
+        "sameEmail",
+        "sameEmail",
+        "sameGeoInfo"
+      ],
+      "confidence": 1
+    }
+  },
+  {
+    "id": "5c868b223b2a9d287fa7f275",
+    "age": 27,
+    "name": "Whitney Dillard",
+    "email": "whitneydillard@equicom.com",
+    "phone": "(872) 463-3524",
+    "connectionInfo": {
+      "type": "sameEmail",
+      "confidence": 1
+    },
+    "geoInfo": {
+      "latitude": -57.068896,
+      "longitude": 79.10501
+    },
+    "combinedConnectionInfo": {
+      "types": [
+        "sameEmail",
+        "sameEmail",
+        "sameEmail",
+        "sameGeoInfo"
+      ],
+      "confidence": 1
+    }
+  },
+  {
+    "id": "5c868b22dd5d1d8e48408505",
+    "age": 28,
+    "name": "Coleman Ruiz",
+    "email": "colemanruiz@equicom.com",
+    "phone": "(902) 470-3136",
+    "connectionInfo": {
+      "type": "sameEmail",
+      "confidence": 1
+    },
+    "geoInfo": {
+      "latitude": -82.831814,
+      "longitude": 32.270796
+    },
+    "combinedConnectionInfo": {
+      "types": [
+        "sameEmail",
+        "sameEmail",
+        "sameEmail",
+        "sameGeoInfo"
+      ],
+      "confidence": 1
+    }
+  },
+  {
+    "id": "5c868b2227406edde5ddbb20",
+    "age": 30,
+    "name": "Bonnie Morales",
+    "email": "bonniemorales@equicom.com",
+    "phone": "(878) 430-3543",
+    "connectionInfo": {
+      "type": "sameEmail",
+      "confidence": 1
+    },
+    "geoInfo": {
+      "latitude": -14.526812,
+      "longitude": -47.804693
+    },
+    "combinedConnectionInfo": {
+      "types": [
+        "sameEmail",
+        "sameEmail",
+        "sameEmail",
+        "sameGeoInfo"
+      ],
+      "confidence": 1
+    }
+  },
+  {
+    "id": "5c868b22fe03e978a52c029f",
+    "age": 28,
+    "name": "Agnes Cruz",
+    "email": "agnescruz@equicom.com",
+    "phone": "(821) 459-2188",
+    "connectionInfo": {
+      "type": "sameEmail",
+      "confidence": 1
+    },
+    "geoInfo": {
+      "latitude": -41.111504,
+      "longitude": -166.991531
+    },
+    "combinedConnectionInfo": {
+      "types": [
+        "sameEmail",
+        "sameEmail",
+        "sameEmail",
+        "sameGeoInfo"
+      ],
+      "confidence": 1
+    }
+  },
+  {
+    "id": "5c868b22e47b476dd6140495",
+    "age": 36,
+    "name": "Hurst Foley",
+    "email": "sanchezcollier@equicom.com",
+    "phone": "(894) 533-3943",
+    "connectionInfo": {
+      "type": "sameEmail",
+      "confidence": 1
+    },
+    "geoInfo": {
+      "latitude": -2.939937,
+      "longitude": 29.618843
+    },
+    "combinedConnectionInfo": {
+      "types": [
+        "sameEmail"
+      ],
+      "confidence": 1
+    }
+  },
+  {
+    "id": "5c868b2291d7da41e51f314a",
+    "age": 34,
+    "name": "Sanchez Collier",
+    "email": "wilcoxmcmahon@equicom.com",
+    "phone": "(828) 496-2100",
+    "connectionInfo": {
+      "type": "sameName",
+      "confidence": 1
+    },
+    "geoInfo": {
+      "latitude": 27.118481,
+      "longitude": 101.345203
+    },
+    "combinedConnectionInfo": {
+      "types": [
+        "sameName"
+      ],
+      "confidence": 1
+    }
+  }
+]

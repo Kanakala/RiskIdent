@@ -1,0 +1,7 @@
+build
+node_modules
+*-packaged.yaml
+.vscode
+package-lock.json
+.DS_Store
+deploy.sh

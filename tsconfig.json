@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "alwaysStrict": true,
+    "resolveJsonModule": true,
+    "module": "commonjs",
+    "noImplicitAny": true,
+    "target": "es2019",
+    "moduleResolution": "node",
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "allowSyntheticDefaultImports": true,
+    "sourceMap": true
+  }
+}
